@@ -1,7 +1,7 @@
 import pandas as pd
 
 fields = ["Symbol", "Exchange"]
-df = pd.read_csv("csv_1.csv", skipinitialspace=True, usecols=fields)
+df = pd.read_csv("nosctr.csv", skipinitialspace=True, usecols=fields)
 
 #print(df.head()) # print first 5 rows
 #print(df.Symbol)
@@ -26,12 +26,12 @@ def normalize(str):
 result = ""
 for i in range(0, row_count-1): # up to but not including , so -1 already
     if i != row_count-2:
-        result += normalize(df.Exchange[i]) + ":" + df.Symbol[i] + ","
+        result += normalize(df.Exchange[i]) + ":" + str(df.Symbol[i]) + ","
     elif i == row_count-2:
-        result += normalize(df.Exchange[i]) + ":" + df.Symbol[i]
+        result += normalize(df.Exchange[i]) + ":" + str(df.Symbol[i])
 
 
-file = open("stockcharts_parsed_output2.txt", "w")
+file = open("nosctr2 27 jan 2021", "w")
 file.write(result)
 file.close()
 

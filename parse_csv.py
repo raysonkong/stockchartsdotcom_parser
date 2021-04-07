@@ -1,7 +1,7 @@
 import pandas as pd
 
 fields = ["Symbol", "Exchange"]
-df = pd.read_csv("nosctr.csv", skipinitialspace=True, usecols=fields)
+df = pd.read_csv("nosctr2.csv", skipinitialspace=True, usecols=fields)
 
 #print(df.head()) # print first 5 rows
 #print(df.Symbol)
@@ -31,7 +31,7 @@ for i in range(0, row_count-1): # up to but not including , so -1 already
         result += normalize(df.Exchange[i]) + ":" + str(df.Symbol[i])
 
 
-file = open("results", "w")
+file = open("nosctr results.txt", "w")
 file.write(result)
 file.close()
 

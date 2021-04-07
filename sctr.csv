@@ -1,0 +1,466 @@
+"Symbol","Name","Exchange","Sector","Industry","SCTR","Universe","Close","Volume"
+"VIAC","ViacomCBS Inc","NASD","Communication Services","Entertainment",99.9,"lrg",96.240,29110142
+"OVV","Ovintiv Inc","NYSE","Energy","Exploration & Production",99.8,"mid",26.710,5407626
+"DISCA","Discovery, Inc.","NASD","Communication Services","Entertainment",99.7,"lrg",75.810,11261100
+"SM","SM Energy Co.","NYSE","Energy","Exploration & Production",99.7,"sml",18.490,2780531
+"WAL","Western Alliance Bancorp.","NYSE","Financial","Banks",99.7,"mid",97.020,545608
+"AMRS","Amyris Inc.","NASD","Materials","Specialty Chemicals",99.6,"sml",21.830,3730059
+"CIT","CIT Group Inc.","NYSE","Financial","Specialty Finance",99.6,"mid",52.320,891143
+"FPRX","Five Prime Therapeutics, Inc.","NASD","Health Care","Biotechnology",99.6,"sml",37.780,1337510
+"CHX","ChampionX Corporation","NASD","Energy","Oil Equipment & Services",99.5,"mid",24.540,1797311
+"RUBY","Rubius Therapeutics, Inc.","NASD","Health Care","Biotechnology",99.5,"sml",32.005,9100260
+"SBNY","Signature Bank","NASD","Financial","Banks",99.5,"mid",241.570,571948
+"TRIP","TripAdvisor, Inc.","NASD","Communication Services","Internet",99.5,"lrg",58.620,3653159
+"KOPN","Kopin Corp.","NASD","Technology","Semiconductors",99.4,"sml",9.930,3769597
+"M","Macy's Inc.","NYSE","Consumer Discretionary","Broadline Retailers",99.3,"lrg",20.130,25304161
+"VIPS","Vipshop Holdings Ltd.","NYSE","Consumer Discretionary","Broadline Retailers",99.3,"mid",42.920,5443490
+"CLNE","Clean Energy Fuels Corp.","NASD","Energy","Integrated Oil & Gas",99.2,"sml",14.965,7300844
+"WES","Western Gas Partners, L.P.","NYSE","Energy","Exploration & Production",99.2,"mid",19.000,1462749
+"JWN","Nordstrom, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",99.1,"lrg",44.860,4773072
+"SNAP","Snap Inc.","NYSE","Communication Services","Internet",99.0,"mid",62.230,18260210
+"KSS","Kohls Corp.","NYSE","Consumer Discretionary","Apparel Retailers",98.9,"lrg",61.120,2685618
+"SPR","Spirit AeroSystems Holdings Inc.","NYSE","Industrial","Aerospace",98.9,"mid",50.160,2504482
+"SABR","Sabre Corp.","NASD","Consumer Discretionary","Travel & Tourism",98.8,"mid",16.010,6864479
+"VUZI","Vuzix Corp.","NASD","Technology","Electronic Equipment",98.8,"sml",18.940,8276414
+"DCP","DCP Midstream, LP","NYSE","Energy","Pipelines",98.7,"mid",24.930,1031079
+"MESA","Mesa Air Group Inc","NASD","Industrial","Airlines",98.6,"sml",14.740,1309594
+"PNFP","Pinnacle Financial Partners, Inc.","NASD","Financial","Banks",98.6,"mid",89.990,342122
+"AEO","American Eagle Outfitters, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",98.5,"mid",30.330,2441723
+"FANG","Diamondback Energy, Inc.","NASD","Energy","Exploration & Production",98.5,"lrg",82.090,5632064
+"ORGO","Organogenesis Holdings Inc.","NASD","Health Care","Medical Supplies",98.5,"sml",17.060,687211
+"AER","AerCap Holdings NV","NYSE","Industrial","Transportation Services",98.4,"mid",59.770,1911029
+"CPRI","Capri Holdings Ltd.","NYSE","Consumer Discretionary","Clothing & Accessories",98.3,"lrg",55.650,1962046
+"EWBC","East West Bancorp, Inc.","NASD","Financial","Banks",98.3,"mid",77.090,867832
+"TPR","Tapestry, Inc.","NYSE","Consumer Discretionary","Clothing & Accessories",98.2,"lrg",44.810,3391709
+"WBS","Webster Financial Corp.","NYSE","Financial","Banks",98.2,"mid",60.220,645799
+"PACW","PacWest Bancorp","NASD","Financial","Banks",98.1,"mid",40.100,1540709
+"AA","Alcoa Corp.","NYSE","Materials","Aluminum",98.0,"mid",29.520,5035135
+"ADS","Alliance Data Systems","NYSE","Financial","Financial Administration",98.0,"lrg",112.670,1141565
+"EOLS","Evolus Inc.","NASD","Health Care","Pharmaceuticals",98.0,"sml",13.420,1140823
+"CMRX","Chimerix, Inc.","NASD","Health Care","Pharmaceuticals",97.9,"sml",10.270,418815
+"SLM","SLM Holding Corp.","NASD","Financial","Consumer Finance",97.9,"mid",17.210,7264385
+"SNV","Synovus Financial Corp.","NYSE","Financial","Banks",97.9,"mid",48.150,954295
+"EVR","Evercore Partners Inc.","NYSE","Financial","Asset Managers",97.8,"mid",140.700,320499
+"SLCA","US Silica Holdings, Inc.","NYSE","Materials","General Mining",97.8,"sml",13.590,740033
+"XEC","Cimarex Energy Co.","NYSE","Energy","Exploration & Production",97.8,"lrg",63.430,947664
+"CLF","Cleveland-Cliffs Inc","NYSE","Materials","Steel",97.7,"mid",15.920,14058878
+"CTRN","Citi Trends, Inc.","NASD","Consumer Discretionary","Apparel Retailers",97.7,"sml",90.730,401250
+"LC","Lending Club Corp.","NYSE","Financial","Consumer Finance",97.7,"sml",17.920,8601178
+"AMCX","AMC Networks Inc.","NASD","Communication Services","Entertainment",97.6,"sml",76.310,473966
+"BYD","Boyd Gaming Corp.","NYSE","Consumer Discretionary","Gambling",97.6,"mid",62.350,813242
+"MRO","Marathon Oil","NYSE","Energy","Integrated Oil & Gas",97.6,"lrg",11.460,21556074
+"KIRK","Kirkland's, Inc.","NASD","Consumer Discretionary","Specialty Retailers",97.5,"sml",28.690,939611
+"MRNA","Moderna Inc.","NASD","Health Care","Pharmaceuticals",97.5,"mid",156.020,16991599
+"DAR","Darling Ingredients Inc.","NYSE","Consumer Staples","Food Products",97.4,"mid",76.430,1142394
+"DVN","Devon Energy Corp.","NYSE","Energy","Exploration & Production",97.4,"lrg",23.510,9902649
+"PK","Park Hotels & Resorts Inc.","NYSE","Real Estate","Hotel & Lodging REITs",97.3,"mid",23.760,2535542
+"COHR","Coherent, Inc.","NASD","Technology","Electronic Equipment",97.2,"mid",248.710,275684
+"IVZ","Invesco Ltd.","NYSE","Financial","Asset Managers",97.2,"lrg",25.250,10650716
+"TS","Tenaris SA","NYSE","Materials","Steel",97.1,"mid",22.960,2024472
+"VEDL","Vedanta Ltd.","NYSE","Materials","Steel",97.1,"mid",12.850,1546691
+"GPRO","GoPro, Inc.","NASD","Consumer Discretionary","Recreational Products",97.0,"sml",12.830,26429040
+"OXY","Occidental Petroleum Corp.","NYSE","Energy","Exploration & Production",97.0,"lrg",28.170,16894958
+"STL","Sterling Bancorp","NYSE","Financial","Banks",97.0,"mid",24.420,3691880
+"MTZ","Mastec, Inc.","NYSE","Industrial","Heavy Construction",96.9,"mid",94.940,847052
+"LB","L Brands, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",96.8,"lrg",60.270,2686477
+"PPBI","Pacific Premier Bancorp, Inc.","NASD","Financial","Banks",96.8,"mid",45.460,384281
+"SIG","Signet Jewelers Ltd.","NYSE","Consumer Discretionary","Apparel Retailers",96.8,"sml",59.810,1357657
+"AMG","Affiliated Managers Group Inc.","NYSE","Financial","Asset Managers",96.7,"lrg",147.740,471507
+"LYFT","Lyft Inc.","NASD","Technology","Software",96.7,"mid",64.690,6503260
+"TTM","Tata Motors Ltd.","NYSE","Industrial","Commercial Vehicles",96.6,"mid",21.810,1012517
+"PLT","Plantronics, Inc.","NYSE","Technology","Telecom Equipment",96.5,"sml",44.090,651628
+"SIVB","SVB Financial Group","NASD","Financial","Banks",96.5,"lrg",539.850,421621
+"SJR","Shaw Communications, Inc.","NYSE","Communication Services","Entertainment",96.5,"mid",27.870,4146873
+"AR","Antero Resources Corp.","NYSE","Energy","Exploration & Production",96.4,"sml",9.930,6566967
+"TMST","Timken Steel Corp.","NYSE","Materials","Steel",96.4,"sml",10.560,950519
+"BCRX","BioCryst Pharmaceuticals, Inc.","NASD","Health Care","Biotechnology",96.3,"sml",13.010,5778614
+"FCX","Freeport-McMoRan, Inc.","NYSE","Materials","Nonferrous Metals",96.3,"lrg",34.990,21241863
+"QRTEA","Qurate Retail, Inc.","NASD","Communication Services","Entertainment",96.3,"mid",12.670,4570934
+"REVG","REV Group, Inc.","NYSE","Industrial","Commercial Vehicles",96.3,"sml",20.340,276427
+"IMPUY","Impala Platinum Holdings Ltd.","OTCMKT","Materials","Nonferrous Metals",96.2,"mid",19.250,230869
+"AGO","Assured Guaranty Ltd.","NYSE","Financial","Property-Casualty Insurance",96.1,"mid",43.690,538831
+"GPS","Gap, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",96.1,"lrg",31.160,5896890
+"VRTV","Veritiv Corp.","NYSE","Industrial","Industrial Suppliers",96.0,"sml",40.090,328482
+"AAL","American Airlines Group Inc.","NASD","Industrial","Airlines",95.9,"lrg",24.470,47923579
+"MT","ArcelorMittal SA","NYSE","Materials","Steel",95.9,"mid",27.010,10708642
+"PDCE","PDC Energy, Inc.","NASD","Energy","Exploration & Production",95.9,"sml",37.760,1291389
+"FATE","Fate Therapeutics, Inc.","NASD","Health Care","Biotechnology",95.8,"mid",89.730,713543
+"JEF","Jefferies Financial Group Inc.","NYSE","Financial","Asset Managers",95.7,"lrg",33.360,2167977
+"TCS","The Container Store Group, Inc.","NYSE","Consumer Discretionary","Specialty Retailers",95.7,"sml",17.400,2189083
+"VLY","Valley National Bancorp","NASD","Financial","Banks",95.7,"mid",13.990,2373494
+"SONO","Sonos Inc.","NASD","Technology","Electronic Equipment",95.6,"sml",42.250,2141873
+"TX","Ternium SA","NYSE","Materials","Steel",95.6,"mid",36.850,1332214
+"FNKO","Funko, Inc.","NASD","Consumer Discretionary","Clothing & Accessories",95.5,"sml",17.960,1759840
+"GE","General Electric Co.","NYSE","Industrial","Diversified Industrials",95.5,"lrg",13.150,74421130
+"GWPH","GW Pharmaceuticals plc","NASD","Health Care","Pharmaceuticals",95.5,"mid",215.540,1071812
+"VOXX","Audiovox Corp.","NASD","Technology","Telecom Equipment",95.5,"sml",22.940,202639
+"WTFC","Wintrust Financial Corp.","NASD","Financial","Banks",95.5,"mid",83.200,392288
+"OZK","Bank OZK","NASD","Financial","Banks",95.4,"mid",44.280,837238
+"AMAT","Applied Materials, Inc.","NASD","Technology","Semiconductors",95.3,"lrg",118.500,10383010
+"GRWG","GrowGeneration Corp.","NASD","Consumer Discretionary","Home Improvement Retailers",95.3,"sml",51.780,2304795
+"OLN","Olin Corp.","NYSE","Materials","Commodity Chemicals",95.3,"sml",35.480,2637757
+"ENPH","Enphase Energy Inc.","NASD","Technology","Renewable Energy Equipment",95.2,"lrg",166.310,2385411
+"OII","Oceaneering Intl, Inc.","NYSE","Energy","Oil Equipment & Services",95.2,"sml",13.430,1053537
+"TMDX","Transmedics Group Inc.","NASD","Health Care","Medical Supplies",95.2,"sml",42.790,1009305
+"TNL","Travel + Leisure Co.","NYSE","Consumer Discretionary","Hotels",95.2,"mid",63.210,457697
+"AGCO","AGCO Corp.","NYSE","Industrial","Commercial Vehicles",95.1,"mid",142.110,688692
+"BHC","Bausch Health Cos. Inc.","NYSE","Health Care","Pharmaceuticals",95.1,"mid",33.380,12166155
+"MTDR","Matador Resources Co.","NYSE","Energy","Exploration & Production",95.1,"sml",25.300,1391274
+"HP","Helmerich & Payne Inc.","NYSE","Energy","Oil Equipment & Services",95.0,"lrg",31.390,1385575
+"TDC","Teradata Corp.","NYSE","Technology","Computer Services",95.0,"mid",44.000,782951
+"KOD","Kodiak Sciences Inc.","NASD","Health Care","Biotechnology",94.8,"mid",129.080,310791
+"UAA","Under Armour, Inc.","NYSE","Consumer Discretionary","Clothing & Accessories",94.8,"lrg",23.380,3985510
+"WOW","Wideopenwest, Inc.","NYSE","Technology","Telecom Equipment",94.8,"sml",16.680,341529
+"CLR","Continental Resources Inc.","NYSE","Energy","Exploration & Production",94.7,"mid",27.380,2467763
+"EXPE","Expedia, Inc","NASD","Consumer Discretionary","Travel & Tourism",94.6,"lrg",176.380,3080817
+"FTCH","Farfetch Ltd.","NYSE","Communication Services","Internet",94.6,"mid",59.250,7857180
+"UCTT","Ultra Clean Holdings Inc.","NASD","Technology","Semiconductors",94.6,"sml",56.550,963708
+"AMKR","Amkor Technology, Inc.","NASD","Technology","Semiconductors",94.5,"mid",23.105,1234898
+"MTW","Manitowoc Co, Inc.","NYSE","Industrial","Commercial Vehicles",94.5,"sml",21.940,646047
+"SNBR","Sleep Number Corporation","NASD","Consumer Discretionary","Furnishings",94.5,"sml",142.100,570169
+"ATKR","Atkore International Group Inc.","NYSE","Technology","Electrical Components",94.4,"sml",72.260,323479
+"NWSA","News Corp.","NASD","Communication Services","Publishing",94.4,"lrg",26.480,4250159
+"TRGP","Targa Resources Corp.","NYSE","Energy","Exploration & Production",94.4,"mid",32.940,1138645
+"UPWK","Upwork Inc.","NASD","Communication Services","Internet",94.4,"sml",48.400,1347909
+"ISBC","Investor Bancorp Inc.","NASD","Financial","Banks",94.3,"mid",14.800,2631367
+"RRGB","Red Robin Gourmet Burgers Inc.","NASD","Consumer Discretionary","Restaurants & Bars",94.3,"sml",38.470,405391
+"TRQ","Turquoise Hill Resources Ltd.","NYSE","Materials","Nonferrous Metals",94.3,"mid",16.120,917165
+"MAT","Mattel, Inc.","NASD","Consumer Discretionary","Toys",94.2,"mid",21.740,2008804
+"MOS","Mosaic Co.","NYSE","Materials","Specialty Chemicals",94.2,"lrg",33.030,4413124
+"PLCE","The Children's Place, Inc.","NASD","Consumer Discretionary","Apparel Retailers",94.2,"sml",82.360,361642
+"BALY","Bally","NYSE","Consumer Discretionary","Gambling",94.1,"sml",69.380,289647
+"BCS","Barclays Plc","NYSE","Financial","Banks",94.1,"mid",10.150,7729579
+"DE","Deere & Co.","NYSE","Industrial","Commercial Vehicles",94.0,"lrg",373.520,2047047
+"GBCI","Glacier Bancorp, Inc.","NASD","Financial","Banks",94.0,"mid",63.810,258263
+"HRI","Herc Holdings Inc.","NYSE","Industrial","Business Support Services",93.9,"sml",102.570,469446
+"PENN","Penn National Gaming, Inc.","NASD","Consumer Discretionary","Gambling",93.9,"mid",124.500,8195977
+"VAC","Marriott Vacations Worldwide Corp.","NYSE","Consumer Discretionary","Hotels",93.9,"mid",183.030,299606
+"CALX","Calix Networks Inc.","NYSE","Technology","Computer Services",93.8,"sml",47.770,790679
+"OKE","Oneok, Inc.","NYSE","Energy","Pipelines",93.8,"lrg",49.540,2502888
+"ACHC","Acadia Healthcare Company, Inc.","NASD","Health Care","Health Care Providers",93.7,"mid",59.430,499201
+"TSE","Trinseo, SA","NYSE","Materials","Commodity Chemicals",93.7,"sml",71.550,416854
+"ANF","Abercrombie & Fitch Co.","NYSE","Consumer Discretionary","Apparel Retailers",93.6,"sml",36.170,1558703
+"BPOP","Popular, Inc.","NASD","Financial","Banks",93.6,"mid",72.200,550513
+"URI","United Rentals, Inc.","NYSE","Industrial","Business Support Services",93.6,"lrg",314.860,802068
+"BGFV","Big 5 Sporting Goods Corp.","NASD","Consumer Discretionary","Specialty Retailers",93.5,"sml",15.700,696797
+"BIDU","Baidu, Inc.","NASD","Communication Services","Internet",93.5,"mid",266.780,7172436
+"LOB","Live Oak Bancshares, Inc.","NASD","Financial","Banks",93.5,"sml",62.560,629209
+"PXD","Pioneer Natural Resources Co.","NYSE","Energy","Exploration & Production",93.5,"lrg",163.030,2505988
+"SSL","Sasol Ltd.","NYSE","Energy","Integrated Oil & Gas",93.4,"mid",15.010,503493
+"ATEC","Alphatec Holdings Inc.","NASD","Health Care","Medical Equipment",93.3,"sml",17.360,725422
+"HFC","HollyFrontier Corp.","NYSE","Energy","Exploration & Production",93.3,"lrg",39.060,1823913
+"MGA","Magna International Inc.","NYSE","Consumer Discretionary","Auto Parts",93.3,"mid",90.880,1022081
+"APPS","Digital Turbine, Inc.","NASD","Technology","Software",93.2,"sml",79.510,4070380
+"SF","Stifel Financial Corp.","NYSE","Financial","Investment Services",93.2,"mid",66.510,504632
+"CRTO","Criteo SA","NASD","Communication Services","Media Agencies",93.1,"sml",33.450,808530
+"ETSY","Etsy Inc.","NASD","Consumer Discretionary","Special Consumer Services",93.1,"lrg",215.980,2451918
+"SOLY","Soliton, Inc.","NASD","Health Care","Medical Equipment",93.1,"sml",17.520,698239
+"CYH","Community Health Systems","NYSE","Health Care","Health Care Providers",93.0,"sml",11.790,4828545
+"THC","Tenet Healthcare Corp.","NYSE","Health Care","Health Care Providers",93.0,"mid",54.470,685663
+"AOSL","Alpha and Omega Semiconductor Ltd.","NASD","Technology","Semiconductors",92.9,"sml",36.360,675665
+"HOMB","Home BancShares Inc.","NASD","Financial","Banks",92.9,"mid",28.170,442479
+"SCHW","Charles Schwab Corp.","NYSE","Financial","Investment Services",92.9,"lrg",65.470,5632388
+"GT","Goodyear Tire & Rubber Co.","NASD","Consumer Staples","Tires",92.8,"mid",17.280,5819590
+"CATY","Cathay Bancorp, Inc.","NASD","Financial","Banks",92.7,"mid",43.310,246530
+"NTLA","Intellia Therapeutics, Inc.","NASD","Health Care","Biotechnology",92.7,"sml",65.550,1014923
+"SKT","Tanger Fctry Outlet Cntrs","NYSE","Real Estate","Retail REITs",92.7,"sml",17.060,2157786
+"VRNT","Verint Systems, Inc.","NASD","Technology","Software",92.7,"mid",48.810,339427
+"HZO","Marinemax, Inc.","NYSE","Consumer Discretionary","Specialty Retailers",92.6,"sml",61.270,817729
+"LPX","Louisiana Pacific Corp.","NYSE","Industrial","Building Materials",92.6,"mid",53.980,1229336
+"PBF","PBF Energy Inc.","NYSE","Energy","Exploration & Production",92.6,"sml",17.250,2927064
+"FNB","F.N.B. Corp.","NYSE","Financial","Banks",92.5,"mid",13.090,1775830
+"MHK","Mohawk Inds, Inc.","NYSE","Consumer Discretionary","Furnishings",92.5,"lrg",182.860,536310
+"TCBI","Texas Capital Bancshares, Inc.","NASD","Financial","Banks",92.5,"sml",86.740,486847
+"ALLY","Ally Financial Inc.","NYSE","Financial","Banks",92.4,"mid",46.060,2633091
+"MDP","Meredith Corp.","NYSE","Communication Services","Publishing",92.4,"sml",34.690,319536
+"X","USX-US Steel Group, Inc.","NYSE","Materials","Steel",92.4,"sml",21.310,22375725
+"MIK","Michaels Companies, Inc.","NASD","Consumer Discretionary","Specialty Retailers",92.3,"sml",21.910,7147091
+"MU","Micron Technology, Inc.","NASD","Technology","Semiconductors",92.3,"lrg",91.430,28538454
+"WOR","Worthington Industries, Inc.","NYSE","Materials","Steel",92.3,"mid",71.310,224732
+"LQDT","Liquidity Services Inc.","NASD","Consumer Discretionary","Broadline Retailers",92.2,"sml",19.880,264831
+"SEM","Select Medical Holdings Corp.","NYSE","Health Care","Health Care Providers",92.2,"mid",35.150,967990
+"CCL","Carnival Corp.","NYSE","Consumer Discretionary","Recreational Services",92.1,"lrg",28.250,51042732
+"MTSI","MACOM Technology Solutions Holdings, Inc.","NASD","Technology","Semiconductors",92.1,"mid",66.160,427620
+"ADNT","Adient plc","NYSE","Consumer Discretionary","Auto Parts",92.0,"sml",46.090,890266
+"FITB","Fifth Third Bancorp","NASD","Financial","Banks",92.0,"lrg",37.880,6586838
+"CCJ","Cameco Corp.","NYSE","Materials","Nonferrous Metals",91.9,"mid",18.700,14764890
+"OMF","OneMain Holdings, Inc.","NYSE","Financial","Consumer Finance",91.9,"mid",54.880,794512
+"OPRX","OptimizeRx Corp.","NASD","Communication Services","Publishing",91.9,"sml",52.540,871057
+"OMCL","Omnicell Inc.","NASD","Health Care","Medical Equipment",91.8,"mid",140.880,775117
+"WDC","Western Digital Corp.","NASD","Technology","Computer Hardware",91.8,"lrg",69.770,5616717
+"AVID","Avid Technology, Inc.","NASD","Communication Services","Entertainment",91.7,"sml",21.640,666761
+"CROX","Crocs, Inc.","NASD","Consumer Discretionary","Footwear",91.7,"mid",81.600,780775
+"ALK","Alaska Air Group, Inc.","NYSE","Industrial","Airlines",91.6,"lrg",70.600,2045530
+"COHU","Cohu, Inc.","NASD","Technology","Semiconductors",91.6,"sml",46.680,1040784
+"MUR","Murphy Oil Corp. Holding Co.","NYSE","Energy","Integrated Oil & Gas",91.6,"mid",18.290,5433947
+"FOXF","Fox Factory Holding Corp.","NASD","Consumer Discretionary","Recreational Products",91.5,"mid",140.880,217890
+"GDEN","Golden Entertainment, Inc.","NASD","Consumer Discretionary","Gambling",91.5,"sml",30.030,271610
+"TPX","Tempur-Pedic Intl Inc.","NYSE","Consumer Discretionary","Furnishings",91.5,"mid",38.510,2223738
+"COLB","Columbia Banking System, Inc.","NASD","Financial","Banks",91.4,"mid",48.290,226709
+"CUBI","Customers Bancorp, Inc.","NYSE","Financial","Banks",91.4,"sml",30.730,206968
+"LNC","Lincoln National Corp.","NYSE","Financial","Life Insurance",91.4,"lrg",61.030,3247720
+"BRKS","Brooks - PRI Automation, Inc.","NASD","Technology","Semiconductors",91.3,"mid",87.100,357697
+"GWB","Great Western Bancorp Inc.","NYSE","Financial","Banks",91.3,"sml",32.450,405256
+"KALV","KalVista Pharmaceuticals, Inc.","NASD","Health Care","Pharmaceuticals",91.2,"sml",34.210,345430
+"MPC","Marathon Petroleum Corp.","NYSE","Energy","Integrated Oil & Gas",91.2,"lrg",56.210,10415304
+"IAC","InterActiveCorp","NASD","Communication Services","Internet",91.1,"mid",239.710,485667
+"NXST","Nexstar Media Group, Inc.","NASD","Communication Services","Entertainment",91.1,"mid",158.600,666684
+"FOXA","Fox Corporation","NASD","Communication Services","Entertainment",91.0,"mid",44.180,5094517
+"TBBK","Bancorp Bank","NASD","Financial","Banks",91.0,"sml",23.000,657789
+"ZION","Zions Bancorp","NASD","Financial","Banks",91.0,"lrg",56.400,1075787
+"AXTI","American Xtal Technology","NASD","Technology","Semiconductors",90.9,"sml",13.550,545365
+"LEVI","Levi Strauss & Co.","NYSE","Consumer Discretionary","Clothing & Accessories",90.9,"mid",25.000,1414351
+"GM","General Motors Co.","NYSE","Consumer Discretionary","Automobiles",90.8,"lrg",57.120,16177030
+"HAFC","Hanmi Financial Corp.","NASD","Financial","Banks",90.8,"sml",20.510,239908
+"PRTA","Prothena Corp.","NASD","Health Care","Biotechnology",90.8,"sml",25.620,359109
+"UA","Under Armour, Inc.","NYSE","Consumer Discretionary","Clothing & Accessories",90.8,"mid",19.500,2559557
+"AVNT","Avient Corporation","NYSE","Materials","Commodity Chemicals",90.7,"mid",49.440,341507
+"FHN","First Horizon National Corp.","NYSE","Financial","Banks",90.7,"mid",17.460,5131054
+"MGM","MGM Resorts International","NYSE","Consumer Discretionary","Gambling",90.6,"lrg",39.910,8766915
+"OMI","Owens & Minor Inc. Holding Co.","NYSE","Health Care","Medical Supplies",90.6,"sml",35.980,1019313
+"SEAS","SeaWorld Entertainment, Inc.","NYSE","Consumer Discretionary","Recreational Services",90.6,"sml",48.500,944343
+"STAY","Extended Stay America, Inc.","NASD","Consumer Discretionary","Hotels",90.6,"mid",19.300,15742621
+"EOG","EOG Resources, Inc.","NYSE","Energy","Exploration & Production",90.5,"lrg",70.650,5399941
+"MIDD","Middleby Corp.","NASD","Consumer Discretionary","Durable Household Products",90.5,"mid",167.420,274065
+"NMRK","Newmark Group, Inc.","NASD","Real Estate","Real Estate Services",90.5,"sml",11.090,949798
+"RAD","Rite Aid Corp.","NYSE","Consumer Staples","Drug Retailers",90.5,"sml",27.380,4347802
+"FFIN","First Financial Bankshares, Inc.","NASD","Financial","Banks",90.4,"mid",50.200,501434
+"FLR","Fluor Corp.","NYSE","Industrial","Heavy Construction",90.4,"sml",22.380,1745212
+"RYAM","Rayonier Advanced Materials Inc.","NYSE","Materials","Commodity Chemicals",90.4,"sml",10.030,584061
+"CADE","Cadence Bancorporation","NYSE","Financial","Banks",90.3,"sml",22.320,985981
+"CNHI","CNH Industrial NV","NYSE","Industrial","Commercial Vehicles",90.3,"mid",15.180,2447797
+"SYNA","Synaptics, Inc.","NASD","Technology","Computer Hardware",90.3,"mid",140.360,464564
+"UAL","United Airlines Holdings Inc.","NASD","Industrial","Airlines",90.3,"lrg",59.810,18306208
+"EGLE","Eagle Bulk Shipping Inc.","NASD","Industrial","Marine Transportation",90.2,"sml",37.590,211233
+"R","Ryder System, Inc.","NYSE","Industrial","Transportation Services",90.2,"mid",75.440,413315
+"FHB","First Hawaiian, Inc.","NASD","Financial","Banks",90.1,"mid",29.130,604126
+"VLO","Valero Energy Corp","NYSE","Energy","Exploration & Production",90.1,"lrg",79.320,3793192
+"ABCB","Ameris Bancorp","NASD","Financial","Banks",90.0,"sml",55.850,428383
+"TALO","Talos Energy, Inc.","NYSE","Energy","Exploration & Production",90.0,"sml",13.810,902980
+"THO","Thor Industries, Inc.","NYSE","Consumer Discretionary","Recreational Products",90.0,"mid",148.020,779427
+"CUK","Carnival Plc.","NYSE","Consumer Discretionary","Recreational Services",89.9,"mid",24.040,1698223
+"DBI","Designer Brands Inc.","NYSE","Consumer Discretionary","Apparel Retailers",89.9,"sml",15.560,2675393
+"NLSN","Nielsen NV","NYSE","Communication Services","Media Agencies",89.9,"lrg",26.290,3289803
+"WGO","Winnebago Industries Inc.","NYSE","Consumer Discretionary","Recreational Products",89.9,"mid",84.990,558584
+"KE","Kimball Electronics, Inc.","NASD","Technology","Electronic Equipment",89.8,"sml",28.430,800090
+"ANGO","AngioDynamics Inc.","NASD","Health Care","Medical Supplies",89.7,"sml",22.890,206173
+"GS","Goldman Sachs Group, Inc.","NYSE","Financial","Investment Services",89.7,"lrg",341.710,2332558
+"PLAY","Dave & Buster's Entertainment Inc.","NASD","Consumer Discretionary","Restaurants & Bars",89.7,"sml",45.090,1005010
+"TCF","TCF Financial Corp.","NASD","Financial","Banks",89.6,"mid",47.360,750167
+"CAR","Avis Budget Group, Inc.","NASD","Consumer Discretionary","Travel & Tourism",89.5,"sml",66.480,1935806
+"NWS","News Corp.","NASD","Communication Services","Publishing",89.5,"mid",25.220,513495
+"PBCT","Peoples Bank","NASD","Financial","Banks",89.5,"lrg",17.880,3138261
+"QUOT","Quotient Technology Inc.","NYSE","Consumer Discretionary","Special Consumer Services",89.5,"sml",16.130,1012546
+"AFG","American Fncl Group, Inc.","NYSE","Financial","Property-Casualty Insurance",89.4,"mid",116.710,644002
+"TGI","Triumph Group, Inc.","NYSE","Industrial","Aerospace",89.4,"sml",18.340,1309173
+"CNQ","Canadian Natural Resources","NYSE","Energy","Exploration & Production",89.3,"mid",31.100,2967128
+"HPE","Hewlett Packard Enterprise Co.","NYSE","Technology","Computer Services",89.3,"lrg",15.740,10772358
+"SOI","Solaris Oilfield Infrastructure, Inc.","NYSE","Energy","Oil Equipment & Services",89.3,"sml",14.500,1020395
+"JBLU","JetBlue Airways Corp.","NASD","Industrial","Airlines",89.2,"mid",20.740,8905971
+"BCO","Brink's Co.","NYSE","Industrial","Business Support Services",89.1,"mid",83.170,213269
+"COF","Capital One Fncl Corp.","NYSE","Financial","Consumer Finance",89.1,"lrg",128.490,3221726
+"LAD","Lithia Motors, Inc.","NYSE","Consumer Discretionary","Specialty Retailers",89.1,"mid",404.550,241149
+"ARVN","Arvinas Inc.","NASD","Health Care","Pharmaceuticals",89.0,"sml",72.690,342090
+"ON","ON Semiconductor Corp.","NASD","Technology","Semiconductors",89.0,"mid",40.660,11908925
+"TEX","Terex Corp.","NYSE","Industrial","Commercial Vehicles",89.0,"sml",46.830,592269
+"BCOV","Brightcove, Inc","NASD","Technology","Software",88.9,"sml",23.240,426564
+"F","Ford Motor Co.","NYSE","Consumer Discretionary","Automobiles",88.9,"lrg",12.490,125425273
+"HI","Hillenbrand Inc.","NYSE","Consumer Discretionary","Special Consumer Services",88.9,"mid",50.390,224340
+"CZR","Caesars Entertainment, Inc.","NASD","Consumer Discretionary","Gambling",88.8,"mid",95.800,4952137
+"REZI","Resideo Technologies, Inc.","NYSE","Consumer Discretionary","Durable Household Products",88.8,"sml",29.620,733113
+"TWTR","Twitter, Inc.","NYSE","Communication Services","Internet",88.8,"lrg",69.250,13216064
+"LPLA","LPL Financial Holdings Inc.","NASD","Financial","Investment Services",88.7,"mid",140.670,689600
+"VCEL","Vericel Corp.","NASD","Health Care","Biotechnology",88.7,"sml",45.420,499578
+"ARCB","ArcBest Corp.","NASD","Industrial","Trucking",88.6,"sml",69.780,321973
+"ZBRA","Zebra Technologies Corp.","NASD","Technology","Electronic Equipment",88.6,"lrg",473.900,238138
+"ESI","Element Solutions Inc.","NYSE","Materials","Specialty Chemicals",88.5,"mid",20.080,1236148
+"BC","Brunswick Corp.","NYSE","Consumer Discretionary","Recreational Products",88.4,"mid",103.420,593400
+"BPFH","Boston Private Financial Holdings, Inc.","NASD","Financial","Banks",88.4,"sml",14.330,1528430
+"PWR","Quanta Services, Inc.","NYSE","Industrial","Heavy Construction",88.4,"lrg",87.260,965789
+"RCII","Rent-A-Center, Inc.","NASD","Consumer Discretionary","Special Consumer Services",88.4,"sml",62.590,612102
+"CNTY","Century Casinos, Inc.","NASD","Consumer Discretionary","Gambling",88.3,"sml",11.360,1020223
+"GNRC","Generac Holdings Inc.","NYSE","Industrial","Building Materials",88.3,"mid",325.890,772661
+"SHYF","The Shyft Group, Inc.","NASD","Industrial","Commercial Vehicles",88.3,"sml",40.950,366829
+"GRPN","Groupon Inc.","NASD","Consumer Discretionary","Special Consumer Services",88.2,"sml",56.270,1531351
+"RF","Regions Financial Corp.","NYSE","Financial","Banks",88.2,"lrg",20.940,11756555
+"WMS","Advanced Drainage Systems, Inc.","NYSE","Industrial","Building Materials",88.2,"mid",104.200,536642
+"XPEL","Xpel Inc.","NASD","Consumer Discretionary","Auto Parts",88.2,"sml",61.360,268081
+"PRIM","Primoris Services Corp.","NASD","Industrial","Heavy Construction",88.1,"sml",39.840,298329
+"ASB","Associated Banc-Corp.","NYSE","Financial","Banks",88.0,"mid",22.550,1604473
+"EB","Eventbrite, Inc.","NYSE","Communication Services","Internet",88.0,"sml",24.750,3781738
+"FL","Foot Locker, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",88.0,"lrg",57.770,1332679
+"CVI","CVR Energy Inc.","NYSE","Energy","Exploration & Production",87.9,"mid",24.260,434780
+"MYGN","Myriad Genetics, Inc.","NASD","Health Care","Biotechnology",87.9,"sml",31.600,1168208
+"NCR","NCR Corp.","NYSE","Technology","Computer Hardware",87.9,"mid",37.590,1585185
+"IPG","Interpublic Grp Of Cos","NYSE","Communication Services","Media Agencies",87.8,"lrg",29.280,3741350
+"SSP","Scripps E W Co.","NASD","Communication Services","Publishing",87.8,"sml",23.630,641889
+"TGTX","TG Therapeutics, Inc.","NASD","Health Care","Pharmaceuticals",87.8,"mid",47.100,1063151
+"UNFI","United Natural Foods, Inc.","NYSE","Consumer Staples","Food Retailers",87.8,"sml",34.890,1188958
+"NET","Cloudflare Inc.","NYSE","Technology","Software",87.7,"mid",74.040,2949512
+"WBT","Welbilt, Inc.","NYSE","Industrial","Industrial Machinery",87.7,"sml",16.430,750666
+"BLBD","Blue Bird Corp.","NASD","Industrial","Commercial Vehicles",87.6,"sml",26.980,646832
+"FOX","Fox Corporation","NASD","Communication Services","Entertainment",87.6,"lrg",41.440,1527511
+"IHRT","iHeartMedia Inc.","NASD","Communication Services","Entertainment",87.6,"sml",18.750,3838945
+"IMO","Imperial Oil Ltd.","AMEX","Energy","Integrated Oil & Gas",87.6,"mid",24.660,1083485
+"BHLB","Berkshire Hills Bancorp, Inc.","NYSE","Financial","Banks",87.5,"sml",23.670,346137
+"APA","APA Corporation","NASD","Energy","Exploration & Production",87.4,"lrg",20.750,7563106
+"KEX","Kirby Corp.","NYSE","Industrial","Marine Transportation",87.4,"mid",68.130,216532
+"FTNT","Fortinet Inc.","NASD","Technology","Software",87.3,"lrg",189.520,1939913
+"SNX","Synnex Corp.","NYSE","Technology","Computer Hardware",87.3,"mid",105.640,293943
+"IBOC","International Bancshares Corp.","NASD","Financial","Banks",87.2,"mid",49.130,300584
+"ICHR","Ichor Holdings, Ltd.","NASD","Technology","Semiconductors",87.2,"sml",48.430,475331
+"CASH","Meta Financial Group, Inc.","NASD","Financial","Banks",87.1,"sml",45.340,220007
+"ENVA","Enova International, Inc.","NYSE","Financial","Consumer Finance",87.1,"sml",36.240,720536
+"FORM","FormFactor Inc.","NASD","Technology","Semiconductors",87.1,"mid",46.630,479348
+"NCLH","Norwegian Cruise Line Holdings Ltd.","NYSE","Consumer Discretionary","Recreational Services",87.1,"lrg",30.100,20525504
+"SU","Suncor Energy, Inc.","NYSE","Energy","Integrated Oil & Gas",87.1,"mid",22.760,10707626
+"AX","Axos Financial, Inc.","NYSE","Financial","Banks",86.9,"sml",51.920,291368
+"BKU","Bankunited Inc.","NYSE","Financial","Banks",86.9,"sml",49.120,522499
+"COP","ConocoPhillips","NYSE","Energy","Integrated Oil & Gas",86.9,"lrg",56.580,9399734
+"PINS","Pinterest Inc.","NYSE","Communication Services","Internet",86.9,"mid",73.790,10032089
+"GVA","Granite Construction Inc.","NYSE","Industrial","Heavy Construction",86.8,"sml",39.250,254442
+"CAE","CAE, Inc.","NYSE","Industrial","Aerospace",86.7,"mid",28.000,774804
+"MSGN","MSG Networks Inc.","NYSE","Consumer Discretionary","Recreational Services",86.7,"sml",20.450,430017
+"WYNN","Wynn Resorts Ltd","NASD","Consumer Discretionary","Gambling",86.7,"lrg",137.570,2129781
+"CR","Crane Co.","NYSE","Industrial","Industrial Machinery",86.6,"mid",92.870,264455
+"GNMK","GenMark Diagnostics Inc.","NASD","Health Care","Medical Equipment",86.6,"sml",23.900,10434494
+"LOVE","The Lovesac Company","NASD","Consumer Discretionary","Furnishings",86.5,"sml",61.370,209965
+"SPG","Simon Property Group, Inc.","NYSE","Real Estate","Retail REITs",86.5,"lrg",117.190,3633346
+"HIBB","Hibbett Sports Inc.","NASD","Consumer Discretionary","Specialty Retailers",86.4,"sml",74.590,663943
+"PUMP","ProPetro Holding Corp.","NYSE","Energy","Oil Equipment & Services",86.4,"sml",11.400,1049863
+"ROKU","Roku, Inc.","NASD","Technology","Computer Hardware",86.4,"mid",353.580,3192049
+"CFR","Cullen Frost Bankers Inc.","NYSE","Financial","Banks",86.3,"mid",114.490,467550
+"HWM","Howmet Aerospace Inc.","NYSE","Industrial","Diversified Industrials",86.3,"lrg",31.140,3649122
+"RUTH","Ruths Chris Steak House Inc.","NASD","Consumer Discretionary","Restaurants & Bars",86.3,"sml",25.400,349756
+"USCR","US Concrete, Inc.","NASD","Industrial","Building Materials",86.3,"sml",62.570,410125
+"GTLS","Chart Industries Inc.","NYSE","Energy","Oil Equipment & Services",86.2,"sml",158.600,353911
+"JCOM","j2 Global Communications Inc.","NASD","Communication Services","Internet",86.0,"mid",121.890,743288
+"MOD","Modine Manufacturing Co.","NYSE","Consumer Discretionary","Auto Parts",86.0,"sml",15.030,408194
+"STWD","Starwood Property Trust Inc.","NYSE","Real Estate","Mortgage REITs",85.9,"mid",24.570,2347402
+"XOM","Exxon Mobil Corp.","NYSE","Energy","Integrated Oil & Gas",85.9,"lrg",59.110,30624260
+"HPQ","HP Inc.","NYSE","Technology","Computer Hardware",85.8,"lrg",30.430,10605221
+"HT","Hersha Hospitality Trust","NYSE","Real Estate","Hotel & Lodging REITs",85.8,"sml",12.560,389753
+"RCKT","Rocket Pharmaceuticals Corp.","NASD","Health Care","Biotechnology",85.8,"sml",57.130,360492
+"SHAK","Shake Shack Inc.","NYSE","Consumer Discretionary","Restaurants & Bars",85.8,"mid",122.740,739598
+"BOH","Bank of Hawaii Corp.","NYSE","Financial","Banks",85.7,"mid",93.060,298724
+"COWN","Cowen, Inc.","NASD","Financial","Investment Services",85.7,"sml",37.180,924108
+"ATI","Allegheny Technologies","NYSE","Materials","Steel",85.6,"sml",21.340,1507771
+"EQH","Equitable Holdings, Inc.","NYSE","Financial","Insurance Brokers",85.6,"mid",31.780,4364987
+"HWC","Hancock Whitney Corp.","NASD","Financial","Banks",85.6,"sml",43.960,305343
+"PDD","Pinduoduo Inc.","NASD","Consumer Discretionary","Broadline Retailers",85.6,"lrg",160.890,10963739
+"AN","Autonation, Inc.","NYSE","Consumer Discretionary","Specialty Retailers",85.5,"mid",89.560,879546
+"ARWR","Arrowhead Pharmaceuticals, Inc.","NASD","Health Care","Biotechnology",85.5,"mid",71.970,525057
+"MS","Morgan Stanley","NYSE","Financial","Investment Services",85.4,"lrg",82.540,9471960
+"ONTO","Onto Innovation Inc","NYSE","Technology","Semiconductors",85.3,"sml",66.120,427554
+"SPT","Sprout Social Inc","NASD","Communication Services","Internet",85.3,"mid",63.100,863332
+"C","Citigroup, Inc.","NYSE","Financial","Banks",85.2,"lrg",73.330,15834756
+"KFY","Korn Ferry Intl","NYSE","Consumer Discretionary","Business Training Agencies",85.1,"sml",63.140,237922
+"SHOO","Steven Madden, Ltd.","NASD","Consumer Discretionary","Footwear",85.1,"mid",38.020,584511
+"CRS","Carpenter Tech Corp.","NYSE","Materials","Steel",85.0,"sml",44.160,308496
+"DFS","Discover Financial Services","NYSE","Financial","Consumer Finance",85.0,"lrg",98.620,2409289
+"NVT","nVent Electric plc.","NYSE","Technology","Electronic Equipment",85.0,"mid",29.420,996523
+"HOPE","Hope Bancorp, Inc.","NASD","Financial","Banks",84.9,"sml",15.920,889509
+"TGNA","TEGNA Inc.","NYSE","Communication Services","Publishing",84.9,"mid",19.720,1673648
+"XHR","Xenia Hotels & Resorts, Inc.","NYSE","Real Estate","Hotel & Lodging REITs",84.9,"sml",20.670,414608
+"BKE","Buckle, Inc.","NYSE","Consumer Discretionary","Apparel Retailers",84.8,"sml",42.110,498982
+"SYF","Synchrony Financial","NYSE","Financial","Consumer Finance",84.8,"lrg",42.200,6820122
+"CDMO","Avid Bioservices, Inc.","NASD","Health Care","Biotechnology",84.7,"sml",17.450,905538
+"OPCH","Option Care Health Inc.","NASD","Health Care","Health Care Providers",84.7,"mid",19.945,4499498
+"CREE","Cree, Inc.","NASD","Technology","Semiconductors",84.6,"mid",114.030,1643759
+"SCHN","Schnitzer Steel Industries, Inc.","NASD","Materials","Steel",84.6,"sml",42.160,322474
+"KLIC","Kulicke and Soffa Industries, Inc.","NASD","Technology","Semiconductors",84.5,"sml",50.280,697387
+"LIVN","LivaNova PLC","NASD","Health Care","Medical Supplies",84.5,"mid",78.330,309088
+"CMA","Comerica, Inc.","NYSE","Financial","Banks",84.4,"lrg",68.450,1303473
+"SAVE","Spirit Airlines, Inc.","NYSE","Industrial","Airlines",84.4,"sml",38.030,3452935
+"BXS","Bancorpsouth, Inc.","NYSE","Financial","Banks",84.3,"mid",33.910,298576
+"AIG","American Intl Group, Inc.","NYSE","Financial","Full Line Insurance",84.2,"lrg",47.330,4247349
+"TCOM","Ctrip.com Intl Ltd.","NASD","Consumer Discretionary","Travel & Tourism",84.2,"mid",44.570,4437162
+"LRCX","Lam Research Corp.","NASD","Technology","Semiconductors",84.1,"lrg",547.180,1526450
+"NXPI","NXP Semiconductor N.V.","NASD","Technology","Semiconductors",84.1,"mid",202.780,6890131
+"UIS","Unisys Corp.","NYSE","Technology","Computer Services",84.1,"sml",26.560,327034
+"ETH","Ethan Allen Interiors Inc.","NYSE","Consumer Discretionary","Furnishings",84.0,"sml",28.360,200602
+"PSO","Pearson PLC","NYSE","Communication Services","Publishing",84.0,"mid",11.320,526487
+"CFG","Citizens Financial Group Inc.","NYSE","Financial","Banks",83.9,"lrg",43.940,5040696
+"ERII","Energy Recovery Inc.","NASD","Industrial","Industrial Machinery",83.8,"sml",18.100,1102580
+"LGF/A","Lions Gate Entertainment Corp.","NYSE","Communication Services","Entertainment",83.8,"sml",18.420,530034
+"BG","Bunge Ltd.","NYSE","Consumer Staples","Food Products",83.7,"mid",78.980,851304
+"HBAN","Huntington Bancshares Inc.","NASD","Financial","Banks",83.7,"lrg",16.095,10590785
+"MKSI","MKS Instruments, Inc.","NASD","Technology","Semiconductors",83.5,"mid",177.910,565661
+"NUE","Nucor Corp.","NYSE","Materials","Steel",83.5,"lrg",68.910,2073979
+"FPI","Farmland Partners Inc.","NYSE","Real Estate","Specialty REITs",83.4,"sml",13.470,316321
+"UBSI","United Bankshares, Inc.","NASD","Financial","Banks",83.4,"mid",40.120,305342
+"WBA","Walgreens Boots Alliance, Inc.","NASD","Consumer Staples","Drug Retailers",83.3,"lrg",54.710,7013099
+"AVYA","Avaya Holdings Corp.","NYSE","Industrial","Business Support Services",83.2,"sml",31.100,985504
+"UMPQ","Umpqua Holdings Corp.","NASD","Financial","Banks",83.2,"mid",18.290,1219730
+"CBRE","CBRE Group, Inc.","NYSE","Real Estate","Real Estate Services",83.1,"lrg",78.350,1350165
+"FBP","First Bancorp","NYSE","Financial","Banks",83.1,"sml",11.770,1624790
+"AL","Air Lease Corp.","NYSE","Industrial","Transportation Services",83.0,"mid",50.300,994422
+"CENX","Century Aluminum Co.","NASD","Materials","Aluminum",83.0,"sml",17.270,992715
+"OSK","Oshkosh Corp.","NYSE","Industrial","Commercial Vehicles",82.9,"mid",116.480,349786
+"WFC","Wells Fargo & Co.","NYSE","Financial","Banks",82.9,"lrg",39.350,24668211
+"INSP","Inspire Medical Systems, Inc.","NYSE","Health Care","Medical Equipment",82.8,"mid",216.640,232244
+"MGY","Magnolia Oil & Gas Corporation","NYSE","Energy","Exploration & Production",82.8,"sml",12.130,2161420
+"ATRO","Astronics Corp.","NASD","Industrial","Aerospace",82.7,"sml",17.770,267690
+"BRX","Brixmor Property Group Inc.","NYSE","Real Estate","Retail REITs",82.7,"mid",20.650,3157944
+"CAT","Caterpillar, Inc.","NYSE","Industrial","Commercial Vehicles",82.7,"lrg",226.460,3539195
+"RXN","Rexnord Corp.","NYSE","Industrial","Industrial Machinery",82.7,"mid",48.990,591040
+"CAKE","Cheesecake Factory Inc.","NASD","Consumer Discretionary","Restaurants & Bars",82.6,"sml",60.080,508733
+"DIOD","Diodes Inc.","NASD","Technology","Semiconductors",82.6,"mid",83.780,473280
+"HES","Hess Corp.","NYSE","Energy","Integrated Oil & Gas",82.6,"lrg",69.010,1959430
+"GIII","G-III Apparel Group, Ltd.","NASD","Consumer Discretionary","Clothing & Accessories",82.5,"sml",31.430,466304
+"HXL","Hexcel Corp.","NYSE","Industrial","Aerospace",82.5,"mid",61.130,707908
+"GIL","Gildan Activewear, Inc.","NYSE","Consumer Discretionary","Clothing & Accessories",82.4,"mid",31.850,395314
+"PI","Impinj, Inc.","NASD","Technology","Telecom Equipment",82.4,"sml",61.600,279895
+"STX","Seagate Technology Holdings, Inc.","NASD","Technology","Computer Hardware",82.4,"lrg",75.480,2454328
+"LEA","Lear Corp.","NYSE","Consumer Discretionary","Auto Parts",82.3,"mid",188.730,446301
+"SIX","Six Flags Entertainment Corp.","NYSE","Consumer Discretionary","Recreational Services",82.3,"sml",48.650,1988705
+"LUV","Southwest Airlines Co.","NYSE","Industrial","Airlines",82.2,"lrg",60.540,5928493
+"JBL","Jabil, Inc.","NYSE","Technology","Electrical Components",82.1,"mid",50.470,2810044
+"KTB","Kontoor Brands Inc.","NYSE","Consumer Discretionary","Clothing & Accessories",82.1,"sml",51.080,461742
+"MET","Metlife, Inc.","NYSE","Financial","Life Insurance",82.0,"lrg",59.310,5124991
+"STLD","Steel Dynamics, Inc.","NASD","Materials","Steel",82.0,"mid",46.830,3685147
+"HOME","At Home Group Inc.","NYSE","Consumer Discretionary","Specialty Retailers",81.9,"sml",29.180,1020258
+"TECK","Teck Resources Ltd.","NYSE","Materials","Nonferrous Metals",81.9,"mid",21.930,11913217
+"HAL","Halliburton Co.","NYSE","Energy","Oil Equipment & Services",81.8,"lrg",22.870,11014049
+"SFTBY","SoftBank Corp.","OTCMKT","Communication Services","Mobile Telecommunications",81.8,"mid",48.600,308168
+"RPT","RPT Realty","NYSE","Real Estate","Retail REITs",81.7,"sml",12.480,290031
+"SBH","Sally Beauty Holdings Inc.","NYSE","Consumer Discretionary","Specialty Retailers",81.7,"sml",20.300,2528800
+"FMBI","First Midwest Bancorp, Inc.","NASD","Financial","Banks",81.6,"sml",22.990,775918
+"KEY","Keycorp","NYSE","Financial","Banks",81.6,"lrg",20.310,16128187
+"TRTN","Triton International Ltd.","NYSE","Industrial","Transportation Services",81.6,"mid",57.910,470400
+"PRA","ProAssurance Corp.","NYSE","Financial","Property-Casualty Insurance",81.5,"sml",28.090,272051
+"APTV","Aptiv Plc","NYSE","Consumer Discretionary","Auto Parts",81.4,"lrg",147.350,1593275
+"RHP","Ryman Hospitality Properties, Inc.","NYSE","Real Estate","Hotel & Lodging REITs",81.4,"sml",83.960,522054
+"EPR","Entertainment Prop Trust","NYSE","Real Estate","Diversified REITs",81.3,"mid",49.010,611479
+"RRR","Red Rock Resorts, Inc.","NASD","Consumer Discretionary","Gambling",81.3,"sml",34.660,854128
+"BA","Boeing Co.","NYSE","Industrial","Aerospace",81.2,"lrg",255.210,28785519
+"PII","Polaris Inds, Inc.","NYSE","Consumer Discretionary","Recreational Products",81.1,"mid",137.040,940583
+"PNC","PNC Financial Services Gr","NYSE","Financial","Banks",81.1,"lrg",176.580,1632368
+"DBD","Diebold Nixdorf, Inc.","NYSE","Technology","Computer Hardware",81.0,"sml",15.690,681964
+"HTHT","Huazhu Group Ltd.","NASD","Consumer Discretionary","Hotels",81.0,"mid",60.900,2632512
+"CCRN","Cross Country Healthcare, Inc.","NASD","Consumer Discretionary","Business Training Agencies",80.9,"sml",12.680,301199
+"ORI","Old Republic Intl Corp.","NYSE","Financial","Property-Casualty Insurance",80.9,"mid",22.120,1470288
+"RGS","Regis Corp.","NYSE","Consumer Discretionary","Special Consumer Services",80.9,"sml",12.560,405294
+"RJF","Raymond James Financial Inc.","NYSE","Financial","Investment Services",80.9,"lrg",118.880,802792
+"IBKR","Interactive Brokers Group, Inc.","NASD","Financial","Investment Services",80.8,"mid",76.720,745131
+"XPER","Xperi Holding Corp","NASD","Technology","Semiconductors",80.8,"sml",24.390,707786
+"AEGN","Aegion Corp.","NASD","Industrial","Heavy Construction",80.7,"sml",28.290,289429
+"AEIS","Advanced Energy Industries, Inc.","NASD","Technology","Semiconductors",80.7,"mid",107.470,281793
+"LAMR","Lamar Advertising Co.","NASD","Real Estate","Specialty REITs",80.7,"mid",99.630,784374
+"SNA","Snap On Inc. Holding Co.","NYSE","Consumer Discretionary","Durable Household Products",80.7,"lrg",220.600,331329
+"HUBS","HubSpot Inc.","NYSE","Technology","Software",80.6,"mid",468.900,361530
+"TILE","Interface, Inc.","NASD","Consumer Discretionary","Furnishings",80.6,"sml",13.900,324789
+"DKNG","DraftKings Inc","NASD","Consumer Discretionary","Gambling",80.5,"lrg",67.140,15197020
+"RBC","Regal-Beloit Corp.","NYSE","Technology","Electrical Components",80.5,"mid",149.050,285545
+"SCU","Och-Ziff Capital Management Group LLC","NYSE","Financial","Asset Managers",80.5,"sml",21.660,296011
+"SBCF","Seacoast Banking Corp. of Florida","NASD","Financial","Banks",80.4,"sml",39.000,245667
+"WK","Workiva Inc.","NYSE","Technology","Software",80.4,"mid",95.860,373539
+"BILL","Bill.com Holdings Inc.","NYSE","Technology","Software",80.3,"mid",151.800,1230578
+"HIG","Hartford Financial Services Group, Inc.","NYSE","Financial","Full Line Insurance",80.3,"lrg",56.700,2794955
+"URBN","Urban Outfitters, Inc.","NASD","Consumer Discretionary","Apparel Retailers",80.3,"sml",40.600,854440
+"STLA","Stellantis N.V.","NYSE","Consumer Discretionary","Automobiles",80.2,"mid",17.500,2865229
+"BNS","The Bank of Nova Scotia","NYSE","Financial","Banks",80.1,"mid",63.490,1955748
+"HST","Host Hotels & Resorts Inc.","NYSE","Real Estate","Hotel & Lodging REITs",80.1,"lrg",17.720,7410821
+"HTH","Hilltop Holdings Inc.","NYSE","Financial","Property-Casualty Insurance",80.1,"sml",37.570,624861
+"ATRC","AtriCure Inc.","NASD","Health Care","Medical Equipment",80.0,"mid",66.100,226759
+                                                                                                                                                       
